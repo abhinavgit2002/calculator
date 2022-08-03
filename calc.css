@@ -1,0 +1,16 @@
+.btn{
+    width: 35px;
+    background-color: rgb(45, 44, 44);
+}
+
+.head1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 247, 247);
+}
+
+body{
+    background-color: rgb(45, 44, 44);
+}
+.fix{
+    border-radius: 20px;
+}
